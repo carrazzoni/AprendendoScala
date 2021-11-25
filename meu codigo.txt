@@ -1,3 +1,7 @@
 Ola meu codigo fonte
 Ola  eu sou  uma  nova linha  de codigo
+<<<<<<< HEAD
 alterei a  linha de codigo mas vou salvar  na branch staging
+=======
+Ola sou uma  linha  nova  3
+>>>>>>> f97c67fd24af838d6434484b20f0b91af0888957
