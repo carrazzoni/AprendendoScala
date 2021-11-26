@@ -1,6 +1,7 @@
 Ola meu codigo fonte
 Ola  eu sou  uma  nova linha  de codigo
 <<<<<<< HEAD
+<<<<<<< HEAD
 alterei a  linha de codigo mas vou salvar  na branch staging
 =======
 Ola sou uma  linha  nova  3
@@ -10,3 +11,8 @@ Ola sou uma  linha  nova  3
 Nova modificação  !!!!
 
 8899 incluido  nova validao de cartao de credito !!!!
+=======
+alterei a  linha de codigo mas vou salvar  na branch staging
+Adicionado  nova funcionalidade busca  por  GPS
+Nova feature colocada na  branch staging !!!! 777
+>>>>>>> staging
