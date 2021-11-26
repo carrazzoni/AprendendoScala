@@ -16,3 +16,5 @@ alterei a  linha de codigo mas vou salvar  na branch staging
 Adicionado  nova funcionalidade busca  por  GPS
 Nova feature colocada na  branch staging !!!! 777
 >>>>>>> staging
+
+adicionado  cadastro de  usuario 4546
